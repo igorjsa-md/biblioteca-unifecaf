@@ -95,8 +95,14 @@ O resultado demonstra que HTML e CSS são suficientes para produzir uma página 
 
 ### Versão desktop
 
-> [INSERIR AQUI captura real do site em 1440 px. Adicionar legenda e fonte: elaboração própria.]
+![Página inicial da Biblioteca Digital UniFECAF em versão desktop](../assets/imagens/captura-desktop.jpg)
+
+**Figura 1 — Página inicial da Biblioteca Digital UniFECAF em versão desktop.**  
+Fonte: elaboração própria (2026).
 
 ### Versão smartphone
 
-> [INSERIR AQUI captura real do site em 375 px. Adicionar legenda e fonte: elaboração própria.]
+![Página inicial da Biblioteca Digital UniFECAF em versão mobile](../assets/imagens/captura-mobile.jpg)
+
+**Figura 2 — Página inicial da Biblioteca Digital UniFECAF em versão mobile.**  
+Fonte: elaboração própria (2026).
