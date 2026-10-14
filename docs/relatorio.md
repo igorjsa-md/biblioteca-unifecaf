@@ -2,8 +2,7 @@
 
 **Disciplina:** Design Web  
 **Aluno:** Igor Jose Santos de Assis  
-**Professor(a):** [inserir nome]  
-**Data:** [inserir data]
+**Data:** 14 de outubro de 2026
 
 ## 1. Introdução e objetivo
 
