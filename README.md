@@ -59,7 +59,8 @@ Todos os caminhos são relativos e adequados ao GitHub Pages.
 
 ## Links da entrega
 
-- Site publicado: `[inserir link após a publicação]`
+- Site publicado: <https://igorjsa-md.github.io/biblioteca-unifecaf/>
+- Repositório: <https://github.com/igorjsa-md/biblioteca-unifecaf>
 - Vídeo de apresentação: `[inserir link após a gravação]`
 
 ## Créditos e observações
