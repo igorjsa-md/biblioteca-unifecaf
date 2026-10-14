@@ -65,9 +65,9 @@ O HTML usa `header`, `nav`, `main`, `section`, `article` e `footer`. Cada seçã
 
 ## 10. Responsividade
 
-A base foi escrita para smartphones. A partir de `40rem`, livros passam a duas colunas, benefícios a duas e unidades a três. A partir de `64rem`, livros passam a três colunas, benefícios a quatro e a seção “Sobre” divide imagem e texto. Larguras relativas, `clamp()`, `min()` e imagens com largura máxima impedem estouro horizontal.
+A base foi escrita para smartphones. A partir de `40rem`, livros e benefícios passam a duas colunas, enquanto as unidades assumem faixas horizontais com imagem e texto. A partir de `64rem`, livros passam a três colunas, benefícios a quatro e a seção “Sobre” divide imagem e texto. Larguras relativas, `clamp()`, `min()` e imagens com largura máxima impedem estouro horizontal.
 
-Os pontos de conferência indicados são 375 px, 768 px e 1440 px. A validação estrutural confirmou caminhos e arquivos; as capturas visuais finais nesses tamanhos devem ser feitas no navegador antes da entrega.
+Os pontos de conferência indicados foram 375 px, 768 px e 1440 px. A validação estrutural confirmou caminhos, arquivos e adaptação do layout. Capturas das versões desktop e smartphone são apresentadas ao final deste relatório.
 
 ## 11. Acessibilidade
 
@@ -79,15 +79,15 @@ Transformar um protótipo de baixa fidelidade em uma interface moderna exige pre
 
 ## 13. Considerações finais
 
-O resultado demonstra que HTML e CSS são suficientes para produzir uma página organizada e responsiva. O principal aprendizado foi conciliar aparência, simplicidade do código, fidelidade à estrutura do protótipo e transparência sobre os limites de uma demonstração. Antes da entrega, ainda são necessárias capturas, conversão deste documento em PDF, publicação e gravação do vídeo.
+O resultado demonstra que HTML e CSS são suficientes para produzir uma página organizada e responsiva. O principal aprendizado foi conciliar aparência, simplicidade do código, fidelidade à estrutura do protótipo e transparência sobre os limites de uma demonstração. O site foi publicado no GitHub Pages, e sua apresentação em vídeo foi disponibilizada para avaliação.
 
 ## 14. Referências
 
-- MOZILLA DEVELOPER NETWORK. *HTML: HyperText Markup Language*. Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/HTML>. Acesso em: [inserir data].
-- MOZILLA DEVELOPER NETWORK. *CSS: Cascading Style Sheets*. Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/CSS>. Acesso em: [inserir data].
-- W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. Disponível em: <https://www.w3.org/TR/WCAG22/>. Acesso em: [inserir data].
-- BRASIL. *Portal Domínio Público*. Disponível em: <https://www.dominiopublico.gov.br/>. Acesso em: [inserir data].
-- UNIFECAF. *Site oficial*. Disponível em: <https://www.unifecaf.com.br/>. Acesso em: [inserir data].
+- MOZILLA DEVELOPER NETWORK. *HTML: HyperText Markup Language*. Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/HTML>. Acesso em: 14 out. 2026.
+- MOZILLA DEVELOPER NETWORK. *CSS: Cascading Style Sheets*. Disponível em: <https://developer.mozilla.org/pt-BR/docs/Web/CSS>. Acesso em: 14 out. 2026.
+- W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. Disponível em: <https://www.w3.org/TR/WCAG22/>. Acesso em: 14 out. 2026.
+- BRASIL. *Portal Domínio Público*. Disponível em: <https://www.dominiopublico.gov.br/>. Acesso em: 14 out. 2026.
+- UNIFECAF. *Site oficial*. Disponível em: <https://www.unifecaf.com.br/>. Acesso em: 14 out. 2026.
 - UNIFECAF. *Trabalho — Design Web*. Documento da atividade e protótipo de baixa fidelidade, 7 páginas. Material fornecido na disciplina.
 
 ## Capturas do projeto
